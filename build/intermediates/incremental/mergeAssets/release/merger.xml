@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets" >
+            <file
+                name="about.html"
+                path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets/about.html" />
+            <file
+                name="contact_us.html"
+                path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets/contact_us.html" />
+            <file
+                name="image1.jpg"
+                path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets/image1.jpg" />
+            <file
+                name="image2.jpg"
+                path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets/image2.jpg" />
+            <file
+                name="in.mp3"
+                path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets/in.mp3" />
+            <file
+                name="in.mp4"
+                path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets/in.mp4" />
+            <file
+                name="vid.mp4"
+                path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/main/assets/vid.mp4" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/dirga/Documents/kerja/project/ffmpeg4android_client_app/ffmpeg4android_os/src/release/assets" />
+    </dataSet>
+
+</merger>
